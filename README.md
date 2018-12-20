@@ -1,3 +1,5 @@
+**NOTE:** This package has been consolidated into the [`vega/vega`](https://github.com/vega/vega) repository, where future development and issues will be handled. This repository has been archived and is now read-only.
+
 # vega-canvas
 
 [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) and [Image](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/Image)  object instantiation utilities.
